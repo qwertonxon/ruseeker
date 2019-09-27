@@ -12,11 +12,11 @@ Concept behind Seeker is simple, just like we host phishing pages to get credent
 
 Seeker Hosts a fake website on **In Built PHP Server** and uses **Serveo** to generate a link which we will forward to the target, website asks for Location Permission and if the target allows it, we can get :
 
-* Longitude
-* Latitude
-* Accuracy
-* Altitude - Not always available
-* Direction - Only available if user is moving
+* Долгота
+* Широта
+* Точность
+* Высота над уровнем моря - не всегда доступна
+* Направление - доступно только если пользователь движется
 * Speed - Only available if user is moving
 
 Along with Location Information we also get **Device Information** without any permissions :
@@ -106,18 +106,8 @@ chmod 777 termux_install.sh
 
 ## Usage
 
-```bash
-python3 seeker.py -h
-
-usage: seeker.py [-h] [-s SUBDOMAIN]
-
-optional arguments:
-  -h, --help                              show this help message and exit
-  -s SUBDOMAIN, --subdomain Subdomain 	Provide Subdomain for Serveo URL ( Optional )
-
-# Example
-
-python3 seeker.py --subdomain google
+```
+python3 seeker.py
 ```
 
 ## Known Problems
