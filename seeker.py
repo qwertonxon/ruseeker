@@ -38,12 +38,13 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
 	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
-	print (G + '[>]' + C + ' Version    : ' + W + version + '\n')
+	print ('\n' + G + '[>]' + C + ' Переведено на русский язык : ' + W + 'qwertonxon')
+	print (G + '[>]' + C + ' Version    : ' + W + version + "translate edition" '\n')
 
 def serveo():
 	global site, subdom
 	flag = False
-	print (G + '[+]' + C + ' Starting PHP Server...' + W)
+	print (G + '[+]' + C + ' Запуск PHP Сервера...' + W)
 	with open ('php.log', 'w') as phplog:
 		subp.Popen(['php', '-S', '127.0.0.1:8080', '-t', 'template/'], stderr=phplog, stdout=phplog)
 
