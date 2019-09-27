@@ -39,7 +39,7 @@ def banner():
 	 \/      \/     \/      \/     \/        ''' + W)
 	print ('\n' + G + '[>]' + C + ' Created By : ' + W + 'thewhiteh4t')
 	print ('\n' + G + '[>]' + C + ' Переведено на русский язык : ' + W + 'qwertonxon')
-	print (G + '[>]' + C + ' Version    : ' + W + version + "translate edition" '\n')
+	print (G + '[>]' + C + ' Version    : ' + W + version + " translate edition" '\n')
 
 def serveo():
 	global site, subdom
