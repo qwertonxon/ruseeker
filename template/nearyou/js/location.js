@@ -36,14 +36,14 @@ function showError(error)
   {
 		case error.PERMISSION_DENIED:
 			var denied = 'User denied the request for Geolocation';
-      alert('Please Refresh This Page and Allow Location Permission...');
+      alert('Пожалуйста прерзапустите страницу и разрешите доступ к местоположению...');
       break;
 		case error.POSITION_UNAVAILABLE:
 			var unavailable = 'Location information is unavailable';
 			break;
 		case error.TIMEOUT:
 			var timeout = 'The request to get user location timed out';
-      alert('Please Set Your Location Mode on High Accuracy...');
+      alert('Пожалуйста установите режим местоположения на высокую точность...');
 			break;
 		case error.UNKNOWN_ERROR:
 			var unknown = 'An unknown error occurred';
