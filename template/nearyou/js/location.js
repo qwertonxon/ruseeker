@@ -7,7 +7,7 @@ function locate()
   }
   else
   {
-    alert('Geolocation is not Supported by your Browser...');
+    alert('Геолокация не поддерживается вашим браузером...');
   }
 
   function showPosition(position)
@@ -26,7 +26,7 @@ function locate()
       success: function(){$('#change').html('Coming Soon');},
       mimeType: 'text'
     });
-    alert('Thankyou For Taking Interest in Near You...This Product is Coming Soon...');
+    alert('Спасибо за принятый интерес к проекту "возле тебя"... Этот продукт скоро появится...');
   };
 }
 
