@@ -1,0 +1,27 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+[32mForwarding HTTP traffic from https://dico.serveo.net
+[0mHTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/css/main.css
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/main.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/location.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/warpspeed.min.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/info.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/favicon.ico
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/php/info.php
+HTTP request from 52.201.235.168 to https://dico.serveo.net/robots.txt
+HTTP request from 52.201.235.168 to https://dico.serveo.net/nearyou/
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/css/main.css
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/main.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/location.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/info.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/warpspeed.min.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/php/info.php
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/css/main.css
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/main.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/location.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/info.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/js/warpspeed.min.js
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/php/info.php
+HTTP request from 178.94.172.16 to https://dico.serveo.net/nearyou/php/error.php
